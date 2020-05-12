@@ -1,15 +1,15 @@
-![logo](https://raw.githubusercontent.com/NEWLIGHTSYSTEM/NEWLIGHTSYSTEM/master/new.bmp)
-# Breve Historia da empresa
+
+## Breve Historia da empresa New Light System
    A New Light System foi fundada em fevereiro de 2020 por Gustavo Broio, Bruno Araujo, Erick Borges, Pedro Dagostini e Thiago Franco com o objetivo de atender e melhorar as necessidades dos nossos clientes e para entregar novas experiencias junto ao desenvolvimento. Prezamos a responsabilidade e compromisso com o nosso trabalho. Buscamos sempre atender todos com profissionalismo aos seus projetos. 
  
-   # Missão, Visão e Valores da New Light System
+## Missão, Visão e Valores da New Light System
 MISSÃO: Nosso propósito é a tecnologia para uma execução perfeita disponibilizando o melhor trabalho para o seu cliente resolvendo todo o seu problema, com os nossos sistemas operacionais.
 
 VISÃO: Ser empresa de referência, reconhecida como a melhor opção para os clientes, colaboradores, comunidade, fornecedores e investidores, pela qualidade de nossos produtos e serviços.
 
 VALORES: Ser empresa de referência, reconhecida como a melhor opção para os clientes, colaboradores, comunidade, fornecedores e investidores, pela qualidade de nossos produtos, serviços e relacionamento.
 
-# 	Dados dos empreendedores
+## 	Dados dos empreendedores
 
  Bruno Araujo - Analista de negócios e Designer 
  Erick Borges – Desenvolvedor e analista de dados
@@ -18,11 +18,12 @@ VALORES: Ser empresa de referência, reconhecida como a melhor opção para os c
  Thiago Franco - Analista de qualidade e testes
 
 
-# Escopo do Produto
+## Escopo do Produto
 A empresa Opportunity Brasil é um dos mais importantes grupos internacionais de investidores em novas empresas em novas empresas tecnológicos, ela seleciona jovens empresas empreendedoras e promovem parcerias e investimentos através de uma criação de estrutura identificando novos talentos e empresas bem-sucedidas. Dando continuidade ao projeto realizado no ano anterior, nós da New Light System, iremos realizar a modelagem do seu sistema sendo acessado por computadores, smartphones de qualquer plataforma. Essa modelagem realizada por nós, tem como permitir que as empresas realizem os seus cadastros permitindo informações essenciais da empresa e o cadastro dos parceiros e clientes para ter um login.
 Dentro do programa o analista deve permitir o contrato das pequenas empresas solicitando no app um acompanhamento dos projetos financiados pela Opportunity.
 
-# Requistos 
+
+## Requistos 
 
 Requisitos Funcionais 
 
@@ -46,3 +47,11 @@ Funcionários.
 - O sistema possui proteção as informações dos usuários
 - O Sistema permite ser executado em qualquer plataforma                                                  
 - O sistema possui  facilidade de manuseio 
+
+##  EAP 
+
+   ![image](https://user-images.githubusercontent.com/64283090/81737564-aabc4500-946e-11ea-844c-56ee5344df33.png)
+
+## Diagrama caso de uso
+
+   ![image](https://user-images.githubusercontent.com/64283090/81738768-9da05580-9470-11ea-9b12-e50192e63e6d.png)
