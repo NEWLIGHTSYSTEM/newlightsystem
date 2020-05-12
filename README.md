@@ -9,7 +9,6 @@ VISÃO: Ser empresa de referência, reconhecida como a melhor opção para os cl
 
 VALORES: Ser empresa de referência, reconhecida como a melhor opção para os clientes, colaboradores, comunidade, fornecedores e investidores, pela qualidade de nossos produtos, serviços e relacionamento.
 
-#Organograma
 # 	Dados dos empreendedores
 
  Bruno Araujo - Analista de negócios e Designer 
