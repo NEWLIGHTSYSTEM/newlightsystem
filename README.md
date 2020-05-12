@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/64283090/81740574-8e6ed700-9473-11ea-9c23-486e4432da53.png)
-## Breve história da New Light System
+## Breve Historia da empresa New Light System
    A New Light System foi fundada em fevereiro de 2020 por Gustavo Broio, Bruno Araujo, Erick Borges, Pedro Dagostini e Thiago Franco com o objetivo de atender e melhorar as necessidades dos nossos clientes e para entregar novas experiencias junto ao desenvolvimento. Prezamos a responsabilidade e compromisso com o nosso trabalho. Buscamos sempre atender todos com profissionalismo aos seus projetos. 
  
 ## Missão, Visão e Valores da New Light System
@@ -12,9 +12,9 @@ VALORES: Ser empresa de referência, reconhecida como a melhor opção para os c
 ## 	Dados dos empreendedores
 
  Bruno Araujo - Analista de negócios e Designer 
- Erick Borges – Desenvolvedor e analista de dados
+         Erick Borges – Desenvolvedor e analista de dados
  Gustavo Broio – Desenvolvedor e analista finalceiro
- Pedro D’agostini - Engenheiro de softwares e diretor
+         Pedro D’agostini - Engenheiro de softwares e diretor
  Thiago Franco - Analista de qualidade e testes
 
 
