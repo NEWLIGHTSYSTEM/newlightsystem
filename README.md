@@ -61,5 +61,6 @@ Funcionários.
 ##    Diagrama caso de uso
 ![image](https://user-images.githubusercontent.com/64283090/82710353-0fd71e00-9c59-11ea-9d64-3fb3e4715cc3.png)
 ![image](https://user-images.githubusercontent.com/64283090/82710446-44e37080-9c59-11ea-98b0-53da976c7d9e.png)
+![image](https://user-images.githubusercontent.com/64283090/82710486-5dec2180-9c59-11ea-99a6-684fa17a27e0.png)
 
 
