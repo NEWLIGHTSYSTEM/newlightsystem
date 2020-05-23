@@ -34,19 +34,20 @@ Dentro do programa o analista deve permitir o contrato das pequenas empresas sol
 Requisitos Funcionais 
 
 
-- O sistema deverá permitir a secretaria realizar o cadastro dos usuários , contendo Nome, endereço, telefone, CNPJ. 	
-- O sistema deverá guardar os dados que foram registrados dos funcionários   	
-- O Sistema devera permitir o login de usuários solicitando usuário e senha cadastrados no site.                    
-- O sistema deverá permitir uma opção de parceria no site
-- O sistema deverá permitir a secretaria classificar cada tipo de usuário solicitando parceria.
-- O sistema deverá permitir que seja feito solicitações de parceria  via site ou presencial.
-- O sistema deverá permitir  o funcionário a emissão de relatórios de solicitações de parceria.
-- O sistema deverá permitir que a secretaria encaminhe solicitações para os
-Funcionários.
-- O sistema deverá permitir que os usuários acompanhem o status de suas solicitações pela aplicação.
-- O sistema devera permitir a entrega do calculo do custo do projeto solicitado
-- O Sistema deverá permitir que o analista realize a análise dos dados inseridos pelas empresas sejam verificados e de o parecer de cadastro aprovado ou reprovado.
--O Sistema deve permitir que um analista de investimentos avalie as solicitações de parceria.
+- O sistema devera permitir o cliente fazer o cadastro na aplicação na aba " cadastro"
+ - O sistema devera permitir o cliente apos o cadastro fazer uma solicitação de parceria , na qual  a aplicação solicitará dados de sua empresa .
+- O sistema devera permitir o cliente consultar as parcerias ja realizadas da nossa empresa na aba " parceria"
+- O Sitema devera permitir uma aba especifica " clientes" para o cliente na qual podera alterar ou incluir seus dados
+- O sistema devera permitir que o cliente mande suas duvidas para nossa empresa a partir de uma aba " duvidas "no site.
+- O sistema devera permitir o cliente acompanhar sua solicitação de parceria na aba " parceria"
+- O sistema devera permitir o cliente o cliente que solicitou a parceria acompanhar o custo estimado do projeto.
+- O sistema devera permitir o Analista consultar solicitaçoes de cadastro dos clientes na qual decidirá se o cadastro será aprovado o reprovado ,
+- O sistema devera permitir o Analista analisar e  responder duvidas de clientes na qual foram solicitadas na aba " Duvidas "
+- O sistema devera permitir o Analista acompanhar o funcionamento da aplicação ( site)
+- O sistema devera permitir o Analista de investimento avaliar solicitações de parceria dos clientes
+- O sistema devera permitir o Analista de investimento um parecer sobre a parceria solicitada.
+- O sistema devera permitir o Analista de desenvolvimento estimar um custo total do projeto solicitado pelo cliente . 
+
            
  Requisitos não funcionais 
 
